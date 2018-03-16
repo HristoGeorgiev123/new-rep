@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 im hristo12121
+=======
+im hristo
+2312321
+>>>>>>> 0eaf67dc22ccdb633d0c06f47ad34217517d30fc
